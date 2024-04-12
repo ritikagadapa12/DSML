@@ -35,20 +35,11 @@ Ready to embark on your machine learning journey? Here's how to get started:
 
 Our repository thrives on the contributions of passionate individuals like you. Join our community of contributors and help shape the future of machine learning. Here are some of our esteemed contributors:
 
-- [Aniket Dhage]
+- [Ritika Gadapa]
 
 ## License
 
 This repository is not licensed yet.
-
-## Connect With Us
-
-Stay updated on the latest developments, projects, and events by connecting with us:
-
-- [[Instagram](https://instagram.com/aniket_d15?igshid=MTdpMDV1aDN1NWJ0dg==)]
-- [[LinkedIn](https://www.linkedin.com/in/aniket-dhage-aa085525a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
-- [[Email](aniketdhage1508@gmail.com)]
-- [[Twitter](https://x.com/Aniket_S_Dhage?t=REBzqS9XUXv8nACKlddi_Q&s=09)]
 
 ## Feedback Us
 
